@@ -1,0 +1,12 @@
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\bin\Debug\net5.0\Whodo.Profile.Test.Shared.deps.json
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\bin\Debug\net5.0\Whodo.Profile.Test.Shared.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\bin\Debug\net5.0\Whodo.Profile.Test.Shared.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\Whodo.Profile.Test.Shared.csproj.AssemblyReference.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\Whodo.Profile.Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\Whodo.Profile.Test.Shared.AssemblyInfoInputs.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\Whodo.Profile.Test.Shared.AssemblyInfo.cs
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\Whodo.Profile.Test.Shared.csproj.CoreCompileInputs.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\Whodo.Profile.Test.Shared.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\refint\Whodo.Profile.Test.Shared.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\Whodo.Profile.Test.Shared.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Test.Shared\obj\Debug\net5.0\ref\Whodo.Profile.Test.Shared.dll

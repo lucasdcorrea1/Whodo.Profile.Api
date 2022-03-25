@@ -1,0 +1,17 @@
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\bin\Debug\net5.0\Whodo.Profile.Infrastructure.Data.deps.json
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\bin\Debug\net5.0\Whodo.Profile.Infrastructure.Data.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\bin\Debug\net5.0\Whodo.Profile.Infrastructure.Data.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\bin\Debug\net5.0\Whodo.Profile.CrossCutting.Base.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\bin\Debug\net5.0\Whodo.Profile.Doman.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\bin\Debug\net5.0\Whodo.Profile.Doman.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\bin\Debug\net5.0\Whodo.Profile.CrossCutting.Base.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Data.AssemblyInfo.cs
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Data.csproj.CopyComplete
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Data.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\refint\Whodo.Profile.Infrastructure.Data.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Data.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Data\obj\Debug\net5.0\ref\Whodo.Profile.Infrastructure.Data.dll

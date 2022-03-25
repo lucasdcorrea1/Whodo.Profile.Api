@@ -1,0 +1,12 @@
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\bin\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.deps.json
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\bin\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\bin\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.csproj.AssemblyReference.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.AssemblyInfoInputs.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.AssemblyInfo.cs
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.csproj.CoreCompileInputs.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\refint\Whodo.Profile.CrossCutting.Configuration.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\Whodo.Profile.CrossCutting.Configuration.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\CrossCutting.Configuration\obj\Debug\net5.0\ref\Whodo.Profile.CrossCutting.Configuration.dll

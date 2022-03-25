@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8EHLXl+VI6nyWFZB+VgZHfpyAJ8yVp1Uy6L+bgiecL2uG2zNre87VhWz2wRiFGhX1+sg3ipK6Z1W08eQNiCKUQ==",
+  "success": true,
+  "projectFilePath": "D:\\BKPs\\Lucas\\Back-End\\APIs\\APIs-Whodo\\Whodo.Profile.Api\\src\\CrossCutting.Configuration\\Whodo.Profile.CrossCutting.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

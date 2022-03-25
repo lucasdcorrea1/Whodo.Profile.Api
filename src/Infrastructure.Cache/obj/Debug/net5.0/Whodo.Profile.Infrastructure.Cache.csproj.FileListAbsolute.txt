@@ -1,0 +1,12 @@
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\bin\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.deps.json
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\bin\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\bin\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.csproj.AssemblyReference.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.AssemblyInfoInputs.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.AssemblyInfo.cs
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.csproj.CoreCompileInputs.cache
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\refint\Whodo.Profile.Infrastructure.Cache.dll
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\Whodo.Profile.Infrastructure.Cache.pdb
+D:\BKPs\Lucas\Back-End\APIs\Whodo.Profile\src\Infrastructure.Cache\obj\Debug\net5.0\ref\Whodo.Profile.Infrastructure.Cache.dll
